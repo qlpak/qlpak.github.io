@@ -12,11 +12,12 @@ table {
 }
 
 table, th, td {
-    border: 1px solid black;
+    border: 1px solid yellow;
     font-weight: bold;
 }
 
 img {
     width: 100px;
     height: auto;
+    box-shadow: 4px 4px 4px pink;
 }
